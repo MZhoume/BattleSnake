@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleSnake.Server", "BattleSnake.Server\BattleSnake.Server.csproj", "{97FD7C99-8EAC-4488-B560-BA8DAB823FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleSnake.Network", "BattleSnake.Network\BattleSnake.Network.csproj", "{DCBD4E69-87FC-4D3C-9646-B3F5243EE399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97FD7C99-8EAC-4488-B560-BA8DAB823FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FD7C99-8EAC-4488-B560-BA8DAB823FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FD7C99-8EAC-4488-B560-BA8DAB823FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FD7C99-8EAC-4488-B560-BA8DAB823FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBD4E69-87FC-4D3C-9646-B3F5243EE399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBD4E69-87FC-4D3C-9646-B3F5243EE399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBD4E69-87FC-4D3C-9646-B3F5243EE399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBD4E69-87FC-4D3C-9646-B3F5243EE399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
